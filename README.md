@@ -1,2 +1,25 @@
-# Advanced-Expense-Tracker-Web-Application
-A modern web-based expense tracking app built with HTML, CSS, and JavaScript that helps users manage their personal finances efficiently. The app allows users to add, edit, and delete transactions, track incomes and expenses by date and category, and visualize spending patterns with interactive charts.
+# 💰 Advanced Expense Tracker Web Application  
+
+A modern, feature-rich **personal finance management tool** built using **HTML, CSS, and JavaScript**.  
+This app helps users track their **income and expenses**, visualize spending patterns, and manage recurring transactions efficiently.  
+
+---
+
+## 🚀 Features  
+
+✅ **Add, Edit & Delete Transactions** (with description, category, amount, type, and date)  
+✅ **Recurring Transactions** – daily, weekly, or monthly auto-generated entries  
+✅ **Interactive Data Visualization** using Chart.js  
+   - 📊 Pie Chart – expense distribution by category  
+   - 📈 Line Chart – income & expense trends over time  
+✅ **Date & Category Filters** for focused insights  
+✅ **Dark Mode & Responsive Design** – mobile-friendly and user-friendly UI  
+✅ **LocalStorage Persistence** – your data stays even after refreshing  
+
+---
+
+## 🛠️ Tech Stack  
+
+- **Frontend:** HTML, CSS, JavaScript (Vanilla JS)  
+- **Charts & Data Visualization:** Chart.js  
+- **Data Storage:** LocalStorage (Browser-based)  
